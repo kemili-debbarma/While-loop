@@ -1,2 +1,2 @@
-a="agartala"
-print(a[0:7:2])
+a="agartalatripura"
+print(a[2:14:3])
